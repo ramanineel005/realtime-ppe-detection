@@ -1,5 +1,9 @@
 # Real-Time PPE Detection System
 
+## Demo Screenshot
+
+![Real-time PPE detection demo](ppe-detection-demo.png)
+
 A real-time Personal Protective Equipment (PPE) detection demo built with Python, OpenCV, and Ultralytics YOLO. It processes webcam streams or video files, draws selected PPE detections, counts PPE-present and missing-PPE detections, and can optionally save annotated video.
 
 ## Features
